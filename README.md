@@ -22,7 +22,7 @@
 ```
 wget -q -O taiko.sh https://raw.githubusercontent.com/okannako/taikoalpha3.md/main/taiko.sh && chmod +x taiko.sh && sudo /bin/bash taiko.sh
 ```
-- ```nano .env``` kodunu girdiğimizde karşımıza çıkan ekranda Alcehmy'den aldığımız linkleri ```L1_ENDPOINT_HTTP L1_ENDPOINT_WS``` ilgili yerlerin yanına yapıştırıyoruz.
+- Sırayla üç kodu da giriyoruz. ```cd simple-taiko-node``` ```cp .env.sample .env``` ```nano .env``` Son kodu girdiğimizde karşımıza çıkan ekranda Alcehmy'den aldığımız linkleri ```L1_ENDPOINT_HTTP L1_ENDPOINT_WS``` ilgili yerlerin yanına yapıştırıyoruz.
 - Aynı Ekranda Proposer ayarlarını yapmak için sırayla şu işlemleri yapıyoruz; ```ENABLE_PROVER``` yanındaki bölümü ```false``` silip ```true``` yazıyoruz. Daha sonra Metemaskımızın Private Key'ini ```L1_PROVER_PRIVATE_KEY``` bölümün yanına yapıştırıyoruz. Loglarda ```Propose transactions succeeded``` yazısını gördüğümüzde önerme işlemi gerçekleşmiş demektir.
 - Metamask ile ilgili bütün işlemleri eğitim videomda bulabilirsiniz >>> https://youtu.be/ic8ncIuTQHA?t=373. Linke tıkladığnızda videoda direkt bize lazım olan bölüme götürecek.
 - Yine aynı ekranda Prover ayarlarını yapmak için ```ENABLE_PROVER``` da ```false``` silip ```true``` yazıyoruz. ```L1_PROVER_PRIVATE_KEY``` da yine Metamask adresimizin Private Key'ini giriyoruz. Loglarda ```Your block proof was accepted``` yazsını gördüysek ödül almaya hak kazanmışız demektir.
