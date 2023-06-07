@@ -32,6 +32,4 @@ sudo chmod -R 777 /usr/local/bin/docker-compose
 
 echo -e "\e[1m\e[32m>>>Taiko Node Kuruluyor<<< \e[0m" && sleep 2
 git clone https://github.com/taikoxyz/simple-taiko-node.git
-cd simple-taiko-node
-cp .env.sample .env
 echo -e "\e[1m\e[91m>>>Yuklemeler bitti kilavuzdan diger adimlara geçebilirsiniz<<<\e[0m"
