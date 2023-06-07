@@ -1,1 +1,3 @@
-# taikoalpha3.md
+![aaaa](https://github.com/okannako/taikoalpha3.md/assets/73176377/415280cb-8380-4463-b43e-251163cf849a)
+
+- Taiko'nun yeni testneti başladı. Node çalıştıranlarda Proposer and Prover olarak ilem yürütenlere ödül vereceği söyleniyor. Ama ödülün boyutu ve maddi karşılşığı hakkında tabii ki net bir şey yok. Hesaplamanızı buna göre yapın çünkü istediği sistem yüksek. Testnet ile ilgili ayrıntılı bilgiye aşağıdaki linkten ulaşabilirsiniz. Ben bu kılavuzda size nasıl ödüllü bölümde yer alabileceğinizden bahsedicem. Yazanlara göre kurulan sistemin önemi büyük çünkü işlem onayları yaparken sistemin kalitesi ön plana çıkacak ve sadece onaylama yapabilenler ödüllere dahil olabiliyor. 
