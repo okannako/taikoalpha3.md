@@ -14,3 +14,11 @@
 ### Kurulum Öncesi Gereklilikler
 
 - [Alchemy](https://www.alchemy.com/) veya [Infura](https://www.infura.io/) üzerinden ücretsiz bir hesap açarak Sepolia testnet üzerinden RPC açıyoruz. Ben işlemlerimde Alchemy kullandım.
+- Bir metamask adresine https://sepolia-faucet.pk910.de https://faucet-sepolia.rockx.com https://sepoliafaucet.com https://www.infura.io/faucet/sepolia bu dört faucetten birinden Sepolia Eth, https://bridge.test.taiko.xyz/ adresinden de test HORSE, BLL VE TTKO tokenlarını alıyoruz.
+
+### Kurulum Adımı
+- Tek kod ile bütün gerekli dosyalar kurulacak. Kurulum bittikten sonra diğer adımlara devam ediyoruz. 
+```
+
+```
+
