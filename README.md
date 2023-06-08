@@ -1,4 +1,4 @@
-![aaaa](https://github.com/okannako/taikoalpha3.md/assets/73176377/415280cb-8380-4463-b43e-251163cf849a)
+![aaaa](https://github.com/okannako/taikoalpha3.md/assets/73176377/11fe7d25-ba2f-4354-ae31-208d9c5f1b5a)
 
 ## ÖN BİLGİ
 - Taiko'nun yeni testneti başladı. Node çalıştıranlarda Proposer ve Prover olarak işlem yürütenlere ödül vereceği söyleniyor. Ama ödülün boyutu ve maddi karşılşığı hakkında tabii ki net bir şey yok. Hesaplamanızı buna göre yapın çünkü istediği sistem yüksek. Testnet ile ilgili ayrıntılı bilgiye aşağıdaki linkten ulaşabilirsiniz. Ben bu kılavuzda size nasıl ödüllü bölümde yer alabileceğinizden bahsedicem. Yazanlara göre kurulan sistemin önemi büyük çünkü işlem onayları yaparken sistemin kalitesi ön plana çıkacak ve sadece onaylama yapabilenler ödüllere dahil olabiliyor. Aşağıdaki sistem gereksinimlerini Proposer ve Prover açançak kişilere göre yazdım. Video ve Github'ı aynı anda takip ederseniz daha hızlı ve hatasız kurulum yaparsınız.
